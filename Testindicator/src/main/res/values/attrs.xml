@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NavigationTabStrip">
+        <!--tab横线颜色-->
+        <attr name="tab_line_color" format="color" />
+        <attr name="tab_text_size" format="dimension" />
+        <attr name="tab_line_height" format="dimension" />
+        <attr name="nts_factor" format="float" />
+        <attr name="tab_titles" format="reference" />
+
+        <attr name="nts_type" format="enum">
+            <enum name="line" value="0" />
+            <enum name="point" value="1" />
+        </attr>
+        <attr name="nts_gravity" format="enum">
+            <enum name="bottom" value="0" />
+            <enum name="top" value="1" />
+        </attr>
+
+        <attr name="nts_typeface" format="string" />
+        <attr name="nts_corners_radius" format="dimension" />
+        <attr name="nts_animation_duration" format="integer" />
+        <!--tab文本未选中颜色-->
+        <attr name="tab_text_not_check_color" format="color" />
+        <!--tab文本选中颜色-->
+        <attr name="tab_text_check_color" format="color" />
+    </declare-styleable>
+
+</resources>

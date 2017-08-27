@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityAnimation" />
+            <option value="$PROJECT_DIR$/ActivityAnimationLib" />
+            <option value="$PROJECT_DIR$/Activity转场动画" />
+            <option value="$PROJECT_DIR$/Adapter封装" />
+            <option value="$PROJECT_DIR$/Adapter封装1" />
+            <option value="$PROJECT_DIR$/Adapter封装1lib" />
+            <option value="$PROJECT_DIR$/Adapter封装lib" />
+            <option value="$PROJECT_DIR$/DialogFragment动画" />
+            <option value="$PROJECT_DIR$/MD" />
+            <option value="$PROJECT_DIR$/MD动画" />
+            <option value="$PROJECT_DIR$/NestedScrollview" />
+            <option value="$PROJECT_DIR$/RecyclerView" />
+            <option value="$PROJECT_DIR$/RecyclerView1" />
+            <option value="$PROJECT_DIR$/RecyclerViewlib" />
+            <option value="$PROJECT_DIR$/RecyclerView下拉刷新加载更多" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑删除" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑删除lib" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑菜单" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑菜单1" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑菜单1lib" />
+            <option value="$PROJECT_DIR$/RecyclerView侧滑菜单lib" />
+            <option value="$PROJECT_DIR$/Shape学习" />
+            <option value="$PROJECT_DIR$/Testindicator" />
+            <option value="$PROJECT_DIR$/Testsp" />
+            <option value="$PROJECT_DIR$/Test存储路径" />
+            <option value="$PROJECT_DIR$/ViewPager特效" />
+            <option value="$PROJECT_DIR$/ViewPager特效lib" />
+            <option value="$PROJECT_DIR$/circualreveal动画" />
+            <option value="$PROJECT_DIR$/circualreveal动画lib" />
+            <option value="$PROJECT_DIR$/circularanim" />
+            <option value="$PROJECT_DIR$/keyboardvisibilityevent" />
+            <option value="$PROJECT_DIR$/paper-onboarding" />
+            <option value="$PROJECT_DIR$/paper-onboarding-fragment-example" />
+            <option value="$PROJECT_DIR$/paper-onboarding-simple-example" />
+            <option value="$PROJECT_DIR$/sidemenu" />
+            <option value="$PROJECT_DIR$/sidemenulibrary" />
+            <option value="$PROJECT_DIR$/test揭露" />
+            <option value="$PROJECT_DIR$/任务栈" />
+            <option value="$PROJECT_DIR$/加载完成动画" />
+            <option value="$PROJECT_DIR$/加载完成动画library" />
+            <option value="$PROJECT_DIR$/工具库" />
+            <option value="$PROJECT_DIR$/工具库library" />
+            <option value="$PROJECT_DIR$/指示器动画" />
+            <option value="$PROJECT_DIR$/指示器动画lib" />
+            <option value="$PROJECT_DIR$/揭露动画2" />
+            <option value="$PROJECT_DIR$/揭露动画2lib" />
+            <option value="$PROJECT_DIR$/揭露动画3" />
+            <option value="$PROJECT_DIR$/揭露动画3lib" />
+            <option value="$PROJECT_DIR$/揭露动画4.0" />
+            <option value="$PROJECT_DIR$/揭露动画4.0.1" />
+            <option value="$PROJECT_DIR$/揭露动画4.0.1lib" />
+            <option value="$PROJECT_DIR$/揭露动画4.0.2" />
+            <option value="$PROJECT_DIR$/揭露动画4.0lib" />
+            <option value="$PROJECT_DIR$/揭露动画5.0" />
+            <option value="$PROJECT_DIR$/揭露动画5.0.1" />
+            <option value="$PROJECT_DIR$/揭露动画5.0以上" />
+            <option value="$PROJECT_DIR$/揭露动画兼容" />
+            <option value="$PROJECT_DIR$/揭露动画兼容4.0" />
+            <option value="$PROJECT_DIR$/揭露动画兼容4.0library" />
+            <option value="$PROJECT_DIR$/数字动画" />
+            <option value="$PROJECT_DIR$/数字变换动画" />
+            <option value="$PROJECT_DIR$/数字变换动画library" />
+            <option value="$PROJECT_DIR$/气泡动画" />
+            <option value="$PROJECT_DIR$/水波动画" />
+            <option value="$PROJECT_DIR$/水波动画lib" />
+            <option value="$PROJECT_DIR$/自定义LayoutManager" />
+            <option value="$PROJECT_DIR$/获取唯一标示" />
+            <option value="$PROJECT_DIR$/软键盘" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

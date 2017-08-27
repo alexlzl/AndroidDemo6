@@ -1,0 +1,518 @@
+[
+    {
+        "outputFile": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 36,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 36,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 52,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 51,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 39,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 39,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 38,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 38,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 52,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 99,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 99,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 37,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 37,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1267
+                },
+                "from": {
+                    "file": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 36,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 36,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 52,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 51,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 39,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 39,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 38,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 38,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 52,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 99,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 99,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 37,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 37,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1267
+                },
+                "from": {
+                    "file": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

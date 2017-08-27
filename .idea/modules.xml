@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityAnimation/ActivityAnimation.iml" filepath="$PROJECT_DIR$/ActivityAnimation/ActivityAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActivityAnimationLib/ActivityAnimationLib.iml" filepath="$PROJECT_DIR$/ActivityAnimationLib/ActivityAnimationLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity转场动画/Activity转场动画.iml" filepath="$PROJECT_DIR$/Activity转场动画/Activity转场动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter封装/Adapter封装.iml" filepath="$PROJECT_DIR$/Adapter封装/Adapter封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter封装1/Adapter封装1.iml" filepath="$PROJECT_DIR$/Adapter封装1/Adapter封装1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter封装1lib/Adapter封装1lib.iml" filepath="$PROJECT_DIR$/Adapter封装1lib/Adapter封装1lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter封装lib/Adapter封装lib.iml" filepath="$PROJECT_DIR$/Adapter封装lib/Adapter封装lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogFragment动画/DialogFragment动画.iml" filepath="$PROJECT_DIR$/DialogFragment动画/DialogFragment动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD/MD.iml" filepath="$PROJECT_DIR$/MD/MD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD动画/MD动画.iml" filepath="$PROJECT_DIR$/MD动画/MD动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedScrollview/NestedScrollview.iml" filepath="$PROJECT_DIR$/NestedScrollview/NestedScrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project3.iml" filepath="$PROJECT_DIR$/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView/RecyclerView.iml" filepath="$PROJECT_DIR$/RecyclerView/RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView1/RecyclerView1.iml" filepath="$PROJECT_DIR$/RecyclerView1/RecyclerView1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewlib/RecyclerViewlib.iml" filepath="$PROJECT_DIR$/RecyclerViewlib/RecyclerViewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView下拉刷新加载更多/RecyclerView下拉刷新加载更多.iml" filepath="$PROJECT_DIR$/RecyclerView下拉刷新加载更多/RecyclerView下拉刷新加载更多.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑删除/RecyclerView侧滑删除.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑删除/RecyclerView侧滑删除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑删除lib/RecyclerView侧滑删除lib.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑删除lib/RecyclerView侧滑删除lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑菜单/RecyclerView侧滑菜单.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑菜单/RecyclerView侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑菜单1/RecyclerView侧滑菜单1.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑菜单1/RecyclerView侧滑菜单1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑菜单1lib/RecyclerView侧滑菜单1lib.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑菜单1lib/RecyclerView侧滑菜单1lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView侧滑菜单lib/RecyclerView侧滑菜单lib.iml" filepath="$PROJECT_DIR$/RecyclerView侧滑菜单lib/RecyclerView侧滑菜单lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape学习/Shape学习.iml" filepath="$PROJECT_DIR$/Shape学习/Shape学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testindicator/Testindicator.iml" filepath="$PROJECT_DIR$/Testindicator/Testindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testsp/Testsp.iml" filepath="$PROJECT_DIR$/Testsp/Testsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test存储路径/Test存储路径.iml" filepath="$PROJECT_DIR$/Test存储路径/Test存储路径.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager特效/ViewPager特效.iml" filepath="$PROJECT_DIR$/ViewPager特效/ViewPager特效.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager特效lib/ViewPager特效lib.iml" filepath="$PROJECT_DIR$/ViewPager特效lib/ViewPager特效lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circualreveal动画/circualreveal动画.iml" filepath="$PROJECT_DIR$/circualreveal动画/circualreveal动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circualreveal动画lib/circualreveal动画lib.iml" filepath="$PROJECT_DIR$/circualreveal动画lib/circualreveal动画lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularanim/circularanim.iml" filepath="$PROJECT_DIR$/circularanim/circularanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyboardvisibilityevent/keyboardvisibilityevent.iml" filepath="$PROJECT_DIR$/keyboardvisibilityevent/keyboardvisibilityevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paper-onboarding/paper-onboarding.iml" filepath="$PROJECT_DIR$/paper-onboarding/paper-onboarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paper-onboarding-fragment-example/paper-onboarding-fragment-example.iml" filepath="$PROJECT_DIR$/paper-onboarding-fragment-example/paper-onboarding-fragment-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paper-onboarding-simple-example/paper-onboarding-simple-example.iml" filepath="$PROJECT_DIR$/paper-onboarding-simple-example/paper-onboarding-simple-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidemenu/sidemenu.iml" filepath="$PROJECT_DIR$/sidemenu/sidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidemenulibrary/sidemenulibrary.iml" filepath="$PROJECT_DIR$/sidemenulibrary/sidemenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test揭露/test揭露.iml" filepath="$PROJECT_DIR$/test揭露/test揭露.iml" />
+      <module fileurl="file://$PROJECT_DIR$/任务栈/任务栈.iml" filepath="$PROJECT_DIR$/任务栈/任务栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/加载完成动画/加载完成动画.iml" filepath="$PROJECT_DIR$/加载完成动画/加载完成动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/加载完成动画library/加载完成动画library.iml" filepath="$PROJECT_DIR$/加载完成动画library/加载完成动画library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工具库/工具库.iml" filepath="$PROJECT_DIR$/工具库/工具库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工具库library/工具库library.iml" filepath="$PROJECT_DIR$/工具库library/工具库library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/指示器动画/指示器动画.iml" filepath="$PROJECT_DIR$/指示器动画/指示器动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/指示器动画lib/指示器动画lib.iml" filepath="$PROJECT_DIR$/指示器动画lib/指示器动画lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画2/揭露动画2.iml" filepath="$PROJECT_DIR$/揭露动画2/揭露动画2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画2lib/揭露动画2lib.iml" filepath="$PROJECT_DIR$/揭露动画2lib/揭露动画2lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画3/揭露动画3.iml" filepath="$PROJECT_DIR$/揭露动画3/揭露动画3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画3lib/揭露动画3lib.iml" filepath="$PROJECT_DIR$/揭露动画3lib/揭露动画3lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画4.0/揭露动画4.0.iml" filepath="$PROJECT_DIR$/揭露动画4.0/揭露动画4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画4.0.1/揭露动画4.0.1.iml" filepath="$PROJECT_DIR$/揭露动画4.0.1/揭露动画4.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画4.0.1lib/揭露动画4.0.1lib.iml" filepath="$PROJECT_DIR$/揭露动画4.0.1lib/揭露动画4.0.1lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画4.0.2/揭露动画4.0.2.iml" filepath="$PROJECT_DIR$/揭露动画4.0.2/揭露动画4.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画4.0lib/揭露动画4.0lib.iml" filepath="$PROJECT_DIR$/揭露动画4.0lib/揭露动画4.0lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画5.0/揭露动画5.0.iml" filepath="$PROJECT_DIR$/揭露动画5.0/揭露动画5.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画5.0.1/揭露动画5.0.1.iml" filepath="$PROJECT_DIR$/揭露动画5.0.1/揭露动画5.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画5.0以上/揭露动画5.0以上.iml" filepath="$PROJECT_DIR$/揭露动画5.0以上/揭露动画5.0以上.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画兼容/揭露动画兼容.iml" filepath="$PROJECT_DIR$/揭露动画兼容/揭露动画兼容.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画兼容4.0/揭露动画兼容4.0.iml" filepath="$PROJECT_DIR$/揭露动画兼容4.0/揭露动画兼容4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/揭露动画兼容4.0library/揭露动画兼容4.0library.iml" filepath="$PROJECT_DIR$/揭露动画兼容4.0library/揭露动画兼容4.0library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数字动画/数字动画.iml" filepath="$PROJECT_DIR$/数字动画/数字动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数字变换动画/数字变换动画.iml" filepath="$PROJECT_DIR$/数字变换动画/数字变换动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数字变换动画library/数字变换动画library.iml" filepath="$PROJECT_DIR$/数字变换动画library/数字变换动画library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/气泡动画/气泡动画.iml" filepath="$PROJECT_DIR$/气泡动画/气泡动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/水波动画/水波动画.iml" filepath="$PROJECT_DIR$/水波动画/水波动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/水波动画lib/水波动画lib.iml" filepath="$PROJECT_DIR$/水波动画lib/水波动画lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义LayoutManager/自定义LayoutManager.iml" filepath="$PROJECT_DIR$/自定义LayoutManager/自定义LayoutManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取唯一标示/获取唯一标示.iml" filepath="$PROJECT_DIR$/获取唯一标示/获取唯一标示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/软键盘/软键盘.iml" filepath="$PROJECT_DIR$/软键盘/软键盘.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+include ':RecyclerView侧滑删除lib', ':RecyclerView侧滑删除', ':RecyclerView侧滑菜单', ':RecyclerView侧滑菜单lib', ':RecyclerViewlib', ':RecyclerView', ':RecyclerView侧滑菜单1lib', ':RecyclerView侧滑菜单1', ':RecyclerView1', ':Adapter封装lib', ':Adapter封装', ':Adapter封装1', ':Adapter封装1lib', ':test揭露', ':Testindicator', ':Testsp', ':任务栈', ':Test存储路径', 'RecyclerView下拉刷新加载更多', 'NestedScrollview', '自定义LayoutManager', 'Shape学习', 'Activity转场动画', ':ActivityAnimation', ':ActivityAnimationLib', 'MD', ':MD动画', ':sidemenu', ':sidemenulibrary', ':加载完成动画', ':加载完成动画library', ':circualreveal动画lib', ':circualreveal动画', '揭露动画5.0', '揭露动画兼容', ':揭露动画2lib', ':揭露动画2', '揭露动画5.0以上', 'circularanim', ':揭露动画兼容4.0', ':揭露动画兼容4.0library', ':指示器动画lib', ':指示器动画', ':揭露动画3lib', ':揭露动画3', ':ViewPager特效', ':ViewPager特效lib', ':paper-onboarding-fragment-example', ':paper-onboarding-simple-example', ':paper-onboarding', ':数字动画', ':数字变换动画library', ':数字变换动画', ':软键盘', ':keyboardvisibilityevent', '工具库', ':工具库library', '揭露动画5.0.1', '获取唯一标示'
+
+include ':DialogFragment动画', '揭露动画兼容4.0library', '揭露动画4.0', '揭露动画4.0lib', '揭露动画4.0.1', '揭露动画4.0.1lib', '揭露动画4.0.2', '气泡动画', '水波动画lib'
+
+include ':水波动画lib'
+include ':水波动画'

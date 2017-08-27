@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\anticipate.xml",
+        "source": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\anim\\anticipate.xml"
+    },
+    {
+        "merged": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\overshoot.xml",
+        "source": "C:\\Users\\lzl\\Desktop\\Project\\AS_DEMO\\Project3\\DialogFragment动画\\src\\main\\res\\anim\\overshoot.xml"
+    },
+    {
+        "merged": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\anticipate.xml",
+        "source": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\anim\\anticipate.xml"
+    },
+    {
+        "merged": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\overshoot.xml",
+        "source": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\anim\\overshoot.xml"
+    },
+    {
+        "merged": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\DEVELOP\\AS_WORKSPACE\\DemoProject\\Demo\\DialogFragment动画\\src\\main\\res\\anim\\dialog_exit.xml"
+    }
+]

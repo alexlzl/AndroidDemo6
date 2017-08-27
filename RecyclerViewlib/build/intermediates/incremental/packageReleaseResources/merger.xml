@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/src/main/res"/><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/build/generated/res/rs/release"/><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/src/main/res"><file path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/src/main/res/values/swipelistview__attrs.xml" qualifiers=""><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="boolean" name="onlyOneOpenedWhenSwipe"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="reference" name="swipeDrawableChecked"/>
+        <attr format="reference" name="swipeDrawableUnchecked"/>
+    </declare-styleable></file></source><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/build/generated/res/rs/release"/><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/DEVELOP/AS_WORKSPACE/DemoProject/Demo/RecyclerViewlib/src/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="boolean" name="onlyOneOpenedWhenSwipe"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr><attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable></configuration></mergedItems></merger>

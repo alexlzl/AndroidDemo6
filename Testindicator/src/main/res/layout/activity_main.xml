@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="fingertip.creditease.com.testindicator.MainActivity">
+
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+
+
+    <fingertip.creditease.com.testindicator.NavigationTabStrip
+        android:id="@+id/nts_top"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="center"
+        app:nts_corners_radius="1dp"
+        app:tab_text_size="20sp"
+        app:tab_titles="@array/titles"
+        app:tab_line_height="10dp"
+        app:tab_line_color="@color/color_a9db11"
+        app:tab_text_check_color="@color/color_FF0000"
+        app:tab_text_not_check_color="@color/color_2ab7ff" />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="115dp"
+        android:id="@+id/textview_approval_count_long"
+        android:layout_width="wrap_content"
+        android:layout_height="13dp"
+        android:background="@drawable/ic_approvalon_long_count"
+        android:text="99+"
+        android:textColor="#ffffff"
+        android:textSize="9sp" />
+   </RelativeLayout>
+    <fingertip.creditease.com.testindicator.CustomView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@color/color_00aaee" />
+</LinearLayout>
